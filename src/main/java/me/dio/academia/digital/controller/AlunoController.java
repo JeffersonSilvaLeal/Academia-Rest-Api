@@ -67,8 +67,7 @@ public class AlunoController {
 	  
 	  alunoServiceImpl.delete(id);
 	  
-	  return "Ok";
-	  
+	  return "Ok";  
   }
 
   
