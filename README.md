@@ -1,5 +1,5 @@
 <h1>Conhecendo o Projeto Spring Data JPA na Prática </h1>
-<p> Sejam bem-vindos ao projeto de LAB <strong>Conhecendo o Projeto Spring Data JPA na Prática</strong> Podendo ser testado => <a href="https://academiarest.herokuapp.com/swagger-ui/index.html"><strong>Agradecimento Digital Innovation One</strong></a>.<br>
+<p> Sejam bem-vindos ao projeto de LAB <strong>Conhecendo o Projeto Spring Data JPA na Prática</strong> Podendo ser testado  no link=> <a href="https://academiarest.herokuapp.com/swagger-ui/index.html"><strong>Academia Rest</strong></a>.<br>
 
 <h2>🎯 Objetivo do Projeto</h2>
 <p>Ao final deste projeto, o Dev irá conhecer os principais conceitos de mapeamento objeto relacional (ORM) usando o <strong>Spring Data JPA</strong>. Para isso, uma <strong>API RESTful</strong> será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.</p>
